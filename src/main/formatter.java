@@ -1,5 +1,6 @@
+// Artist - Song -> Song
+
 import java.io.*;
-import java.nio.file.Paths;
 
 class formatter
 {
